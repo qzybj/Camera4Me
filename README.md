@@ -1,6 +1,8 @@
-# StickerCamera
+# Camera4Me
 
+edit by StickerCamera project
 This is an Android application with camera,picture cropping,collage sticking and tagging.
+
 
 这是一款集成了相机,图片裁剪,给图片贴贴图打标签的APP。
 
